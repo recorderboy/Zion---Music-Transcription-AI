@@ -139,9 +139,9 @@ def main() -> None:
 
     print("")
     print("✨✨✨✨✨✨✨✨✨")
-    print("✨ Basic Pitch  ✨")
+    print("✨       Zion       ✨")
     print("✨✨✨✨✨✨✨✨✨")
-    print("")
+    print("    By Christopher")
 
     # tensorflow is very slow to import
     # this import is here so that the help messages print faster
