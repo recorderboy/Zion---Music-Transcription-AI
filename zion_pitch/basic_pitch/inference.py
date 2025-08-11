@@ -377,7 +377,7 @@ def build_output_path(
 
     basename, _ = os.path.splitext(os.path.basename(audio_path))
 
-    output_path = output_directory / f"{basename}_basic_pitch.{output_type.value}"
+    output_path = output_directory / f"{basename}_zion.{output_type.value}"
 
     generating_file_message(output_type.name)
 
