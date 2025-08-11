@@ -138,10 +138,13 @@ def main() -> None:
     args = parser.parse_args()
 
     print("")
+    print("")
     print("✨✨✨✨✨✨✨✨✨")
     print("✨       Zion       ✨")
     print("✨✨✨✨✨✨✨✨✨")
-    print("    By Christopher")
+    print("    By Christopher!")
+    print("")
+    print("")
 
     # tensorflow is very slow to import
     # this import is here so that the help messages print faster
@@ -184,7 +187,7 @@ def main() -> None:
             args.sonification_samplerate,
             args.midi_tempo,
         )
-        print("\n✨ Done ✨\n")
+        print("\n✨ Done! ✨\n")
     except IOError as ioe:
         print(ioe)
     except Exception as e:
