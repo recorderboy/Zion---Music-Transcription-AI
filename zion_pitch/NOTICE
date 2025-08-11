@@ -25,7 +25,7 @@ This product includes software from scipy (BSD)
 This product includes software from tensorflow (Apache 2.0)
 * Copyright (C) 2019 Google, LLC <packages@tensorflow.org>
 
-The tests for `basic-pitch` include audio files from the
+The tests for `Zion` include audio files from the
 Vocadito dataset liscened under Creative Commons
 Attribution 4.0 International. The dataset can be found at:
 https://zenodo.org/record/5578807#.YnRm5vPMKDU
